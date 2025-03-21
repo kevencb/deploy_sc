@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:8080/prueba_deploy_21032025/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://kevencb.github.io/deploy_sc/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://localhost:8080/prueba_deploy_21032025/page-sitemap.xml</loc>
+		<loc>https://kevencb.github.io/deploy_sc/page-sitemap.xml</loc>
 		<lastmod>2025-03-21T19:46:18+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
